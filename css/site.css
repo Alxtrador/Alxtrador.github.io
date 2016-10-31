@@ -22,6 +22,11 @@ body {
 	color: white;
 }
 
+.active {
+	background-color: gold;
+	color: white;
+}
+
 #intro p {
 	text-align: center;
 	margin: 20px;
