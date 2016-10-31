@@ -17,12 +17,12 @@ body {
 	text-decoration: none;
 }
 
-#sidemenu li a:hover {
+li .active {
 	background-color: #e24625;
 	color: white;
 }
 
-.active {
+li a:hover:not(.active) {
 	background-color: gold;
 	color: white;
 }
