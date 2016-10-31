@@ -2,4 +2,6 @@ body {
 	background-color: lightblue;
 }
 
-
+#sidemenu p {
+	text-align: left
+}
