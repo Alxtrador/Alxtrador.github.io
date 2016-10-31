@@ -3,6 +3,7 @@ body {
 }
 
 #sidemenu ul {
+	background-color: darkorange;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
