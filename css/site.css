@@ -4,6 +4,8 @@ body {
 
 #sidemenu p {
 	text-align: left;
+	border-style: solid;
+	border-width: medium;
 }
 
 #intro p {
